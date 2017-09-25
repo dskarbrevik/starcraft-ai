@@ -1,2 +1,2 @@
-# starcraft-ai
+# Starcraft-AI
 Developing an AI for Starcraft II
